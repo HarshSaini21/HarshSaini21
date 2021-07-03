@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HarshSaini21
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript
+- My name is Harshdeep
 
 <!---
 HarshSaini21/HarshSaini21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
