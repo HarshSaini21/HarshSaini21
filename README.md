@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshSaini21
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React Native
 - My name is Harshdeep
 
 <!---
